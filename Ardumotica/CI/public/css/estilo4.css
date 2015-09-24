@@ -1,0 +1,26 @@
+body{		
+	color: #000;		
+	background-color: transparent;		
+	margin-left: 15%;		
+	margin-right: 15%;			
+	border: 1px dotted #ccc;		
+	padding: 10px 10px 10px 10px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.header_main{
+	text-align: left;
+	margin-top: 110px;
+	margin-bottom: 30px;
+}
+
+.contenido{
+	padding:0px;
+	border: 0px solid #FFF;
+	float: left;
+	width: 100%;
+}
+
+input[type="text"],label{
+	display: block;
+}	

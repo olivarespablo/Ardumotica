@@ -1,0 +1,3 @@
+		<?php
+			echo "<img src='/CI/public/img/1234.png'> ";
+		?>
