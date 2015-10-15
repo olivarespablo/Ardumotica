@@ -3,7 +3,7 @@
 <h1 align='center'>Ardumótica</h1><h3 align='center'>Seleccione el tipo de entrada/salida</h3>
 <body>   
 <div class='tipoPines' style='text-align:center;'>
-<button onClick=location.href='http://192.168.0.100/mode/8/o' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:125px;height:70px;'>Entradas Análogas</button>
+<button onClick=location.href='dispositivosAnalogos' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:125px;height:70px;'>Entradas Análogas</button>
 <button onClick=location.href='dispositivosDigitales' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:125px;height:70px;'>Entradas Digitales</button>
 </div>
 </body>
@@ -22,7 +22,7 @@ a { color:#FFF}
 
 /* =Your Generated css 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-.tipoPines {transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-webkit-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-moz-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);-o-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-ms-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);}
+.tipoPines{transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-webkit-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-moz-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);-o-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-ms-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);}
 
 </style>
 </html>

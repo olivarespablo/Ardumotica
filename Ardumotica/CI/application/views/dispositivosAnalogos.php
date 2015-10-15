@@ -5,7 +5,7 @@
 
 				<fieldset >
 					<div class="dispositivos">Pines
-			<form action="/CI/index.php/portal2/guardarDispositivos/1" method="post">
+			<form action="/CI/index.php/portal2/guardarDispositivos/2" method="post">
 					<label>Pin 0: </label> <!-- etiqueta para los input -->
 					<input type="text" size="20" value="<?php echo $pin0;?>" enabled name="pin0"><br>
 
