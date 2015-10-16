@@ -22,10 +22,6 @@ body{
 a { color:#FFF}
 .inicioArduino { border:solid 1px #2d2d2d;  text-align:center; background:#575757; padding:100px 50px 100px 50px;  -moz-border-radius: 5px;  -webkit-border-radius: 5px; border-radius: 5px;}
 
-/* =Your Generated css 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-.inicioArduino{transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-webkit-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-moz-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);-o-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);-ms-transform:  rotate(0deg) scale(1) skew(1deg) translate(0px);}
-
 </style>
 </html>
 
