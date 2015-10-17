@@ -24,29 +24,6 @@
 					<label>Pin 5: </label> <!-- etiqueta para los input -->
 					<input type="text" size="20" value="<?php echo $pin5;?>" enabled name="pin5"><br>
 
-					<label>Pin 6: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin6;?>" enabled name="pin6"><br>
-
-					<label>Pin 7: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin7;?>" enabled name="pin7"><br>
-
-					<label>Pin 8: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin8;?>" enabled name="pin8"><br>
-
-					<label>Pin 9: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin9;?>" enabled name="pin9"><br>
-
-					<label>Pin 10: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin10;?>" enabled name="pin10"><br>
-
-					<label>Pin 11: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin11;?>" enabled name="pin11"><br>
-
-					<label>Pin 12: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin12;?>" enabled name="pin12"><br>
-
-					<label>Pin 13: </label> <!-- etiqueta para los input -->
-					<input type="text" size="20" value="<?php echo $pin13;?>" enabled name="pin13"><br>
 		<br>
 
 
