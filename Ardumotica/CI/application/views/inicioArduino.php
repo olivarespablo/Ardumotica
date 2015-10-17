@@ -5,7 +5,7 @@
 <body>   
 <div class="inicioArduino" style='text-align:center;'>
 <button onClick=location.href='tipoPines' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:120px;height:70px;'>Definir dispositivos</button>
-<button onClick=location.href='consultarEstados' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:120px;height:70px;'>Consultar estados</button>
+<button onClick=location.href='configurarDispositivos' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:120px;height:70px;'>Consultar estados</button>
 <button onClick=location.href='activarDispositivos' style='margin:auto;background-color: #84B1FF;color: snow;border: 3px solid #3F7CFF;width:120px;height:70px;'>Definir estados</button>
 </div>
 </body>
