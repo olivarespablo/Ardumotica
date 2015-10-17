@@ -13,10 +13,22 @@ class arduino_model extends CI_Model{
 			return false;
 	}
 
-	public function obtener_dispositivos(){
+	public function obtener_dispositivos($id, $id2){
+
+		if($id==1){
 		$where_array = array (
 			'id'=>1);
-		$table_name = "Dispositivos";
+		}
+		else{
+			$where_array = array (
+			'id'=>2);
+		}
+		if($id2==1){
+			$table_name = "Dispositivos";
+		}
+		else{
+			$table_name = "Estados";
+		}
 		$limit = 1;
 		$offset = 0;
 		$query = $this->db->get_where($table_name, $where_array, $limit, $offset);
@@ -26,6 +38,14 @@ class arduino_model extends CI_Model{
 		else{
 			return false;
 		}
+	}
+
+	public function actualizar_estados($estadoDispositivos, $id){
+
+		if($this->db->update('Estados', $estadoDispositivos, $id))
+			return true;
+		else
+			return false;
 	}
 
 }
